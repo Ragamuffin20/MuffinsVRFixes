@@ -1,6 +1,6 @@
 # MuffinsVRFixes
 
-Custom ComfyUI nodes for VR180 workflows.
+Custom ComfyUI nodes for VR360/180 workflows.
 
 ## Included Nodes
 
