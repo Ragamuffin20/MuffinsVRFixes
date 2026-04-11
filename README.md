@@ -12,4 +12,4 @@ Custom ComfyUI nodes for my VR360/180 workflows.
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOURUSERNAME/MuffinsVRFixes.git
+git clone https://github.com/Ragamuffin20/MuffinsVRFixes.git
